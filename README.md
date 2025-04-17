@@ -22,7 +22,7 @@ Il consiste à créer une carte d'aperçu de blog en respectant une maquette don
 
 ![Aperçu de ma version mobile](https://github.com/jlepan/blog-preview-card/blob/main/apercu-projet/apercu-mobile.png)
 
-![Aperçu de ma version lorsque l'on passe sur les liens](https://github.com/jlepan/blog-preview-card/blob/main/apercu-projet/apercu-active-states.png)
+![Aperçu de ma version lorsque l'on passe sur les liens](https://github.com/jlepan/blog-preview-card/blob/main/apercu-projet/apercu-actives-states.png)
 
 ## Projet en ligne
 
